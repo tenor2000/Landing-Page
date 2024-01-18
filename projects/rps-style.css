@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+#js-here {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 30px;
+    
+}
+
+.select {
+    background-color: red;
+}
